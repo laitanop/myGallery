@@ -1,7 +1,7 @@
 import React from 'react';
 import { Modal, View, Image, Text, Button, StyleSheet } from 'react-native';
 
-const placeDetail = props => {
+const placeDetails = props => {
     let modalContent = null;
 
     if(props.selectedPlace) {
@@ -20,7 +20,7 @@ const placeDetail = props => {
     <View>
      
                 <Button title="delete" color="red" onPress={props.onItemDeleted}/>
-                <Button title="close" onPress={props.onModalClose}/>
+                <Button title="close" onPress={props.onModalClosed}/>
             </View>
      
     </Modal>
@@ -45,4 +45,4 @@ const placeDetail = props => {
   
 
 
-export default placeDetail;
+export default placeDetails;
