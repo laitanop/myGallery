@@ -5,8 +5,8 @@ import {
   } from "../actions/actionTypes";
   
   const initialState = {
-    places: [],
-    selectedPlace: null
+    places: []
+
   };
   
   const reducer = (state = initialState, action) => {
@@ -29,7 +29,7 @@ import {
           places: state.places.filter(place => {
             return place.key !== state.selectedPlace.key;
           }),
-          selectedPlace: null
+    
         };
     
       default:
