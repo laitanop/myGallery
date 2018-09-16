@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

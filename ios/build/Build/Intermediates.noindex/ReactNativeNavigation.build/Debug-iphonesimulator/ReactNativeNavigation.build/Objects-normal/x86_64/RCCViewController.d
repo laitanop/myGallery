@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCViewController.m \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCExternalViewControllerProtocol.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/Helpers/RCCTitleViewHelper.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native-navigation/ios/RCCCustomTitleView.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootViewDelegate.h

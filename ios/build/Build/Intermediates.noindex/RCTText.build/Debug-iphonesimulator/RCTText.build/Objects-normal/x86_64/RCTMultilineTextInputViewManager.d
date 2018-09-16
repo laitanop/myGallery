@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/pamelarivera/MisDocumentos/Udemy/ReactNative/PracticalGuide/myGallery/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
