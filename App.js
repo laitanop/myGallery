@@ -1,14 +1,17 @@
 import {Navigation } from 'react-native-navigation';
+import { Provider } from 'react-redux';
 
 import AuthScreen from './src/screens/Auth/Auth';
 import SharePlaceScreen from "./src/screens/SharePlace/SharePlace";
 import FindPlaceScreen from "./src/screens/FindPlace/FindPlace";
+import configureStore from './src/store/configureStore';
 
+const store = configureStore();
 
 // register screen 
-Navigation.registerComponent("myGallery.AuthScreen", () => AuthScreen);
-Navigation.registerComponent("myGallery.SharePlaceScreen", () => SharePlaceScreen);
-Navigation.registerComponent("myGallery.FindPlaceScreen", () => FindPlaceScreen);
+Navigation.registerComponent("myGallery.AuthScreen", () => AuthScreen,store, Provider);
+Navigation.registerComponent("myGallery.SharePlaceScreen", () => SharePlaceScreen, store, Provider);
+Navigation.registerComponent("myGallery.FindPlaceScreen", () => FindPlaceScreen, store, Provider);
 
 
 // start app
