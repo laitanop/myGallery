@@ -1,10 +1,14 @@
 import {Navigation } from 'react-native-navigation';
 
 import AuthScreen from './src/screens/Auth/Auth';
+import SharePlaceScreen from "./src/screens/SharePlace/SharePlace";
+import FindPlaceScreen from "./src/screens/FindPlace/FindPlace";
 
 
 // register screen 
 Navigation.registerComponent("myGallery.AuthScreen", () => AuthScreen);
+Navigation.registerComponent("myGallery.SharePlaceScreen", () => SharePlaceScreen);
+Navigation.registerComponent("myGallery.FindPlaceScreen", () => FindPlaceScreen);
 
 
 // start app
