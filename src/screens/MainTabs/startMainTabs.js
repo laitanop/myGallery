@@ -6,7 +6,9 @@ import Icon from 'react-native-vector-icons/Ionicons';
 const startTabs = () => {
     Promise.all([
         Icon.getImageSource("md-map", 30),
-        Icon.getImageSource("ios-share-alt", 30)
+        Icon.getImageSource("ios-share-alt", 30),
+        Icon.getImageSource("ios-menu", 30)
+
     ]).then(sources => {
         Navigation.startTabBasedApp({
             tabs: [
@@ -14,15 +16,42 @@ const startTabs = () => {
                     screen: "myGallery.FindPlaceScreen", 
                     label: "Find Place",
                     title: "Find Place", 
-                    icon: sources[0]
+                    icon: sources[0], 
+                    navigatorButtons: {
+                        leftButtons: [
+                            {
+                            icon: sources[2],
+                            title: "Menu", 
+                            id: "sideDrawerToggle"
+                            }
+                        ]
+
+                    }
                 }, 
                 {
                     screen: "myGallery.SharePlaceScreen", 
                     label: "Share Place",
                     title: "Share Place",
-                    icon: sources[1]
+                    icon: sources[1], 
+                    navigatorButtons: {
+                        leftButtons: [
+                            {
+                            icon: sources[2],
+                            title: "Menu",
+                            id: "sideDrawerToggle"
+                            }
+                        ]
+
+                    }
+                    
                 }
-            ]
+            ], 
+            drawer: {
+                left: {
+                    screen: "myGallery.SideDrawer",
+                    title: ""
+                }
+            }
         })
     });
 

@@ -6,6 +6,7 @@ import SharePlaceScreen from "./src/screens/SharePlace/SharePlace";
 import FindPlaceScreen from "./src/screens/FindPlace/FindPlace";
 import configureStore from './src/store/configureStore';
 import placeDetailScreen from './src/screens/PlaceDetails/PlaceDetails';
+import SideDrawer from './src/screens/SideDrawer/SideDrawer';
 
 const store = configureStore();
 
@@ -14,6 +15,9 @@ Navigation.registerComponent("myGallery.AuthScreen", () => AuthScreen,store, Pro
 Navigation.registerComponent("myGallery.SharePlaceScreen", () => SharePlaceScreen, store, Provider);
 Navigation.registerComponent("myGallery.FindPlaceScreen", () => FindPlaceScreen, store, Provider);
 Navigation.registerComponent("myGallery.PlaceDetailScreen", () => placeDetailScreen, store, Provider );
+Navigation.registerComponent("myGallery.SideDrawer", () => SideDrawer, store, Provider );
+
+
 
 // start app
 
