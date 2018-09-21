@@ -15,7 +15,8 @@ placeDeletedHandler = () => {
         return (  
       
             <View style={styles.container}>
-                  <View>
+                
+                 <View>
            <Image source={this.props.selectedPlace.image} style={styles.placeImage} />
            <Text style={styles.placeName}>{this.props.selectedPlace.name}</Text>
            </View>
