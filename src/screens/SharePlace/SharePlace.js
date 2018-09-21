@@ -12,12 +12,11 @@ class SharePlaceScreen extends Component {
 
 
     onNavigatorEvent = event => {
-        if (event.type === "NavBarButtonPress") {
-            if (event.id === "sideDrawerToggle") {
+        if (event.type === 'NavBarButtonPress') {
+            if (event.id === 'sideDrawerToggle') {
                 this.props.navigator.toggleDrawer({
-                    side: "left"
-                })
-
+                    side: 'left'
+                });
             }
         }
     }
@@ -29,17 +28,14 @@ class SharePlaceScreen extends Component {
             <View>
             
                    <PlaceInput onPlaceAdded={this.placeAddedHandler} />
-          
 
 
             </View>
-        )
+        );
     }
 }
 
-const mapDispatchToProps = dispatch => {
-    return {
+const mapDispatchToProps = dispatch => ({
         onAddPlace: (placeName) => dispatch(addPlace(placeName))
-    }
-}
+    });
 export default connect(null, mapDispatchToProps)(SharePlaceScreen);

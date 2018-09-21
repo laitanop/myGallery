@@ -8,15 +8,15 @@ import { deletePlace } from '../../store/actions/index';
 class PlaceDetail extends Component {
 placeDeletedHandler = () => {
     this.props.onDeletePlace(this.props.selectedPlace.key);
-    this.props.navigator.pop()
+    this.props.navigator.pop();
 }
 
     render() {
         return (  
       
             <View style={styles.container}>
-          <View>
-           <Image source={this.props.selectedPlace.image} style={styles.placeImage}/>
+                  <View>
+           <Image source={this.props.selectedPlace.image} style={styles.placeImage} />
            <Text style={styles.placeName}>{this.props.selectedPlace.name}</Text>
            </View>
      
@@ -33,10 +33,8 @@ placeDeletedHandler = () => {
 
        </View>
       
-   )
+   );
     }
-    
-   
 }
 
     const styles = StyleSheet.create({
@@ -44,24 +42,22 @@ placeDeletedHandler = () => {
             margin: 22
         }, 
         placeImage: {
-            width: "100%",
+            width: '100%',
             height: 200
 
         },
         placeName: {
-            fontWeight: "bold",
-            textAlign: "center",
+            fontWeight: 'bold',
+            textAlign: 'center',
             fontSize: 28
         }, 
         deleteButton: {
             alignItems: 'center',
         }
-    })
+    });
   
-const mapDispatchToProps = dispatch => {
-    return {
+const mapDispatchToProps = dispatch => ({
         onDeletePlace: key => dispatch(deletePlace(key))
-    }
-}
+    });
 
 export default connect(null, mapDispatchToProps)(PlaceDetail);
